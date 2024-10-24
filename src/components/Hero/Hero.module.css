@@ -11,7 +11,7 @@
     margin-right: 10%;
 }
 
-.conten {
+.content {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -51,7 +51,7 @@
 }
 
 .heroImg {
-    width: 30%;
+    width: 27%;
     z-index: 1;
 
     animation-name: floating;

@@ -51,7 +51,7 @@
 }
 
 .heroImg {
-    width: 27%;
+    width: 28%;
     z-index: 1;
 
     animation-name: floating;
@@ -74,7 +74,7 @@
 
 .topBlur {
     position: absolute;
-    width: 50vw;
+    width: 5vw;
     height: 50vw;
     min-width: 350px;
     min-width: 350px;

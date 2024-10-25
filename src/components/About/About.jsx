@@ -34,6 +34,14 @@ export const About = () => {
                     <p>I have experience in bug debugging within Unix architecture, as well as using Android Debug Bridge (ADB) commands and Unix commands.</p>
                 </div>
             </li>
+            <li className={styles.aboutItems}>
+                <img src={getImageUrl('about/settingsIcon.png')} 
+                alt="settings icon" />
+                    <div className={styles.aboutItemText}>
+                    <h3>Electronics Technician</h3>
+                    <p>I am an electronics technician with over 10 years of experience, including experience in Australia. I have extensive skills in hardware and for operation power tools.</p>
+                </div>
+            </li>
         </ul>
         </div>
     </section>

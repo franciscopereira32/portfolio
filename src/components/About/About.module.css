@@ -48,13 +48,13 @@
         rgba(165, 215, 232, 0.42) 0%,
         rgba(255, 255, 255, 0) 100%
     );
-    background-size: 100 0%;
+    background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
 }
 
 .aboutItem:hover {
-    background-size: 0% 100%;
+    background-size: 100% 100%;
 }
 
 .aboutItem h3 {
@@ -64,6 +64,10 @@
 
 .aboutItem p {
     font-size: 25px;
+}
+
+.icon {
+    margin-right: 15px;
 }
 
 @media screen and (max-width: 830px) {

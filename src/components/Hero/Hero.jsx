@@ -13,7 +13,7 @@ export const Hero = () => {
                 I'm as well a electronics technician graduate with 10 years of
                 experience.
             </p>
-            <a href="francisco.pereira.australia@gmail.com" className={styles.contactBtn}>Contact Me</a>
+            <a href="mailto:mgfrank36@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
             <div className={styles.topBlur}></div>

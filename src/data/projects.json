@@ -8,12 +8,12 @@
     "source": "https://github.com/franciscopereira32/lets-travel"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Online Store",
+    "imageSrc": "projects/gurme.PNG",
+    "description": "A front-end web project focused on utilizing HTML resources, featuring a well-designed and modern graphic interface, with a responsive layout, including an interactive and responsive menu button.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://fanciful-jalebi-830a6a.netlify.app/",
+    "source": "https://github.com/franciscopereira32/gourmet-burgers"
   },
   {
     "title": "Project C",

@@ -16,11 +16,11 @@
     "source": "https://github.com/franciscopereira32/gourmet-burgers"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Song Finder",
+    "imageSrc": "projects/song.PNG",
+    "description": "A web application that uses iTunes to search for music by artist or band and returns the results in a JSON package, allowing users to listen to pre-selected tracks.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://venerable-marzipan-d604b0.netlify.app/",
     "source": "https://www.github.com"
   }
 ]

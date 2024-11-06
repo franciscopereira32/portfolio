@@ -8,6 +8,7 @@
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     max-width: 345px;
+    height: auto;
 }
 
 .image {
@@ -27,12 +28,13 @@
 
 .skills {
     width: 100%;
-    margin-top: 14px;
+    margin-top: 10px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 6px;
     list-style: none;
+    height: 50px;
 }
 
 .skill {
@@ -45,7 +47,7 @@
 
 .links {
     width: 100%;
-    margin-top: 26px;
+    margin-top: 30px; 
     display: flex;
     justify-content: space-around;
 }
@@ -63,3 +65,4 @@
 .descriptionBtn {
     margin-top: 5px;
 }
+

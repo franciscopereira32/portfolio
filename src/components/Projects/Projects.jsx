@@ -13,6 +13,9 @@ export const Projects = () => {
                         return <ProjectCard key={id} project={project}/>;
                     })}
             </div>
+            <div className={styles.gitlinks}>
+                <a href="https://github.com/franciscopereira32/" className={styles.gitlink}>All projects</a>
+            </div>
         </section>
     );
 };

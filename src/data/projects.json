@@ -1,15 +1,8 @@
 [
-  {
-    "title": "Let's travel",
-    "imageSrc": "projects/travel.PNG",
-    "description": "A web development project for a hotel registration and booking system, with two user levels: Administrators, who manage hotels, and customers, who book accommodations.",
-    "skills": ["React", "Express", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/franciscopereira32/lets-travel"
-  },
+  
   {
     "title": "Online Store",
-    "imageSrc": "projects/gurme.PNG",
+    "imageSrc": "projects/gurme.png",
     "description": "A front-end web project focused on utilizing HTML resources, featuring a well-designed and modern graphic interface, with a responsive layout, including an interactive and responsive menu button.",
     "skills": ["HTML", "CSS"],
     "demo": "https://fanciful-jalebi-830a6a.netlify.app/",
@@ -17,10 +10,18 @@
   },
   {
     "title": "Song Finder",
-    "imageSrc": "projects/song.PNG",
+    "imageSrc": "projects/song.png",
     "description": "A web application that uses iTunes to search for music by artist or band and returns the results in a JSON package, allowing users to listen to pre-selected tracks.",
     "skills": ["JavaScript", "HTML", "CSS"],
     "demo": "https://venerable-marzipan-d604b0.netlify.app/",
     "source": "https://www.github.com"
+  },
+  {
+    "title": "Let's travel",
+    "imageSrc": "projects/travel.png",
+    "description": "A web development project for a hotel registration and booking system, with two user levels: Administrators, who manage hotels, and customers, who book accommodations.",
+    "skills": ["React", "Express", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/franciscopereira32/lets-travel"
   }
 ]

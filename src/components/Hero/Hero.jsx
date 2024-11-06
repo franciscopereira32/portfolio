@@ -8,9 +8,9 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Francisco</h1>
             <p className={styles.description}> 
-                I'm a software analist with 2 years of experience of software 
+                I am a software analist with 2 years of experience of software 
                 management, android documentation and java developepment. 
-                I'm as well a electronics technician graduate with 10 years of
+                I am as well a electronics technician graduate with 10 years of
                 experience.
             </p>
             <a href="mailto:mgfrank36@gmail.com" className={styles.contactBtn}>Contact Me</a>

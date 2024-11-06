@@ -5,10 +5,9 @@ import { useState } from "react";
 
 export const ProjectCard = ({ 
     project : { title, imageSrc, description, skills, demo, source} },
-) => {
+    ) => {
 
     const [showElement, setShowElement] = useState(false)
-    // const showOrHide = () => setShowElement(true)
 
     const toggleElement = () => {
         setShowElement(!showElement);

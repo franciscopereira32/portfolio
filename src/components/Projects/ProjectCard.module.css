@@ -63,6 +63,18 @@
 }
 
 .descriptionBtn {
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border-radius: 100px;
+    padding: 2px 12px;
+    font-size: 15px;
+}
+
+.descriptions {
     margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 

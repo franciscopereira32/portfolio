@@ -13,7 +13,9 @@ export const Hero = () => {
                 I am as well a electronics technician graduate with 10 years of
                 experience.
             </p>
-            <a href="mailto:mgfrank36@gmail.com" className={styles.contactBtn}>Contact Me</a>
+            <a href="assets\hero\Francisco-Pereira.pdf" download className={styles.contactBtn}>Resume
+                <img  src={getImageUrl("hero/vector.png")}className={styles.imageBtn}/>
+            </a>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
             <div className={styles.topBlur}></div>

@@ -23,8 +23,8 @@ export const ProjectCard = ({
                 src={getImageUrl(imageSrc)} 
                 alt={`Image of ${title}`} className={styles.image} />
                 <h3 className={styles.title}>{title}</h3>
-                <div>
-                    <button onClick={toggleElement} className={styles.descriptionBtn}>Description</button>
+                <div className={styles.descriptions}>
+                    <a onClick={toggleElement} className={styles.descriptionBtn}>Read Description</a>
                     <div style={elementStyle}>
                         <p className={styles.description}>{description}</p>
                     </div>

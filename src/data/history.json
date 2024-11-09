@@ -5,7 +5,8 @@
     "startDate": "Jan, 2024",
     "endDate": "Present",
     "experiences": ["Hand solder", "Electronic Assembly", "Power Tool Operation"],
-    "imageSrc": "history/entech.png"
+    "imageSrc": "history/entech.png",
+    "flagSrc": "history/australia.png"
   },
   {
     "role": "Software Analyst",
@@ -15,7 +16,8 @@
     "experiences": ["Java Developer", 
                     "Software Management",
                     "Android Documentation"],
-    "imageSrc": "history/multi.jpeg"
+    "imageSrc": "history/multi.jpeg",
+    "flagSrc": "history/brazil.png"
   },
   {
     "role": "Electronic Technician",
@@ -27,6 +29,7 @@
       "Android Architecture",
       "Power Tools Operation"
     ],
-    "imageSrc": "history/multi.jpeg"
+    "imageSrc": "history/multi.jpeg",
+    "flagSrc": "history/brazil.png"
   }
 ]

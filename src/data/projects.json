@@ -21,7 +21,7 @@
     "imageSrc": "projects/travel.png",
     "description": "A web development project for a hotel registration and booking system, with two user levels: Administrators, who manage hotels, and customers, who book accommodations.",
     "skills": ["React", "Express", "MongoDB"],
-    "demo": "https://vimeo.com/1026760194/e3ac8303f8",
+    "demo": "https://vimeo.com/1027913230/4a07ea076c",
     "source": "https://github.com/franciscopereira32/lets-travel"
   }
 ]

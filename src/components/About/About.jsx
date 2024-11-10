@@ -15,7 +15,7 @@ export const About = () => {
                 alt="cursor icon" className={styles.icon} />
                     <div className={styles.aboutItemText}>
                     <h3>Software Analyst</h3>
-                    <p>I am a software analyst with experience in Android documentation and project management.</p>
+                    <p>Software analyst with experience in Android documentation and project management.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
@@ -23,7 +23,7 @@ export const About = () => {
                 alt="server icon" className={styles.icon} />
                     <div className={styles.aboutItemText}>
                     <h3>Java Developer</h3>
-                    <p>I have experience as a Java developer specializing in test automation, as well as customizing and setting up Android devices.</p>
+                    <p>Java developer specializing in test automation, as well as customizing and setting up Android devices.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
@@ -31,7 +31,7 @@ export const About = () => {
                 alt="UI icon" className={styles.icon} />
                     <div className={styles.aboutItemText}>
                     <h3>Log Debugging</h3>
-                    <p>I have experience in bug debugging within Unix architecture, as well as using Android Debug Bridge (ADB) commands and Unix commands.</p>
+                    <p>Extensive experience in debugging bugs within Unix-based environments, with strong proficiency in using Android Debug Bridge (ADB) for device troubleshooting and debugging.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
@@ -39,7 +39,7 @@ export const About = () => {
                 alt="settings icon" className={styles.icon} />
                     <div className={styles.aboutItemText}>
                     <h3>Hardware Specialist</h3>
-                    <p>I am an electronics technician with over 10 years of experience, including experience in Australia. I have extensive skills in hardware and for operation power tools.</p>
+                    <p>Electronics Technician with over 10 years of experience, including expertise gained in Australia. I possess extensive skills in hardware maintenance and operating power tools.</p>
                 </div>
             </li>
         </ul>

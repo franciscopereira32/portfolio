@@ -14,7 +14,7 @@ export const Projects = () => {
                     })}
             </div>
             <div className={styles.gitlinks}>
-                <a href="https://github.com/franciscopereira32/" className={styles.gitlink}>All projects</a>
+                <a href="https://github.com/franciscopereira32?tab=repositories" className={styles.gitlink}>All Projects</a>
             </div>
         </section>
     );

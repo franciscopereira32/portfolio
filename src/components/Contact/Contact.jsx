@@ -23,6 +23,9 @@ export const Contact = () => {
                     <a href="https://www.linkedin.com/in/francisco-henrique-pereira-a8799612b">https://www.linkedin.com/in/francisco-henrique-pereira-a8799612b/</a>
                 </li>
             </ul>
+            <div>
+                <p className={styles.end}>&copy; 2024 Francisco Pereira &middot;</p>
+            </div>
         </footer>
     );
 };

@@ -59,6 +59,11 @@
         align-items: center;
     }
     .links {
+        flex-direction:column;
         align-items: center;
+    }
+    .link {
+        flex-direction: column;
+        align-items:center;
     }
 }
